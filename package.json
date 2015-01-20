@@ -1,0 +1,8 @@
+{
+  "author": "alice",
+  "license": "ISC",
+  "dependencies": {
+	"node-schedule": "0.1.15",
+	"nodemailer": "0.7"
+  }
+}
