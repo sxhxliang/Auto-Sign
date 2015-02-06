@@ -13,3 +13,6 @@ Auto sign sstmlt and zairenku
     2. node-schedule
     写到这里突然想起来我为什么不写一个package.json呢..... =.=|
 
+
+
+ nohup node main.js > slog.log &
